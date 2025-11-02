@@ -208,3 +208,14 @@
   id: 16
   time: '2025-11-02T11:20:35.0000000+00:00'
   url: https://github.com/Sich-me/ss14_sich_public/pull/59
+- author: Pgriha
+  changes:
+  - message: "\u041F\u043E\u0432\u0435\u0440\u043D\u0443\u0442\u043E \u0441\u0442\u0430\
+      \u0440\u0443 \u0437\u0430\u0442\u0440\u0438\u043C\u043A\u0443 \u0430\u0442\u0430\
+      \u043A\u0430/\u0432\u0438\u043A\u043E\u0440\u0438\u0441\u0442\u0430\u043D\u043D\
+      \u044F \u043F\u043B\u044E\u0448\u0456\u0432 (3->1 \u0441\u0435\u043A\u0443\u043D\
+      \u0434)"
+    type: Tweak
+  id: 17
+  time: '2025-11-02T11:22:06.0000000+00:00'
+  url: https://github.com/Sich-me/ss14_sich_public/pull/60
