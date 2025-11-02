@@ -186,3 +186,13 @@
   id: 14
   time: '2025-11-02T11:12:50.0000000+00:00'
   url: https://github.com/Sich-me/ss14_sich_public/pull/57
+- author: crvenih
+  changes:
+  - message: "\u0421\u0442\u0430\u043D\u0434\u0430\u0440\u0442\u0438\u0437\u043E\u0432\
+      \u0430\u043D\u043E ID \u0443\u0441\u0456\u0445 entities \u0441\u0442\u0432\u043E\
+      \u0440\u0435\u043D\u0438\u0445 \u0443\u0447\u0430\u043D\u0438\u0441\u043A\u0430\
+      \u043C\u0438 \u0441\u043F\u0456\u043B\u044C\u043D\u043E\u0442\u0438."
+    type: Tweak
+  id: 15
+  time: '2025-11-02T11:14:24.0000000+00:00'
+  url: https://github.com/Sich-me/ss14_sich_public/pull/54
